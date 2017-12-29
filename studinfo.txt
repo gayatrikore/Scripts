@@ -1,0 +1,3 @@
+echo "This file stores the student records"
+
+echo "Display records"
