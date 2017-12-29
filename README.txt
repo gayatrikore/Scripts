@@ -1,4 +1,4 @@
-echo "This is readme file for Existing Scripts"
-echo "some changes are made."
-echo "Some new scripts are added."
-echo "some files are edited and renamed"
+This is readme file for Existing Scripts
+some changes are made.
+Some new scripts are added
+some files are edited and renamed
